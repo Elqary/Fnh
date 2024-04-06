@@ -4,7 +4,6 @@
     "require": {
         "php": "^7.4",
         "monolog/monolog": "^2.0"
-        // أضف أي مكتبات أخرى تحتاجها هنا
     },
     "autoload": {
         "psr-4": {
